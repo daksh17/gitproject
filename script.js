@@ -1,5 +1,4 @@
-
-const d=50;
-const b=203;
-const c=()=>{console.log('hi there')};
+const x=50;
+const y=203;
+const z=()=>{console.log('hi there')};
 
