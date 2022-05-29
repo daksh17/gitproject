@@ -1,4 +1,8 @@
 /test1.txt
 /test2.txt
-/index.html
-/style.css
+
+
+
+auto-gen-files/*.txt
+
+
